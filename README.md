@@ -1,24 +1,14 @@
 # Bubble
 
-### Online resource for NYU
+### Online resource for UoG
 ------------------------------------------------
-\
-**Project Video Link:**
-*************************
-[Bubble]( https://clipchamp.com/watch/nbpgfYjEcQV)
-
-\
-**Video Presentation**
-*************
-[YouTube](https://youtu.be/BJFATRNQbPo)
-
 \
 **Project Description:**
 **************************
-* The fundamental purpose of this project is to give a better platform to NYU students so that they can interact with each other and develop a connection. This app will build a community of students so they can share their experiences with peers.
+* The fundamental purpose of this project is to give a better platform to UoG students so that they can interact with each other and develop a connection. This app will build a community of students so they can share their experiences with peers.
 
 
-* Bubble is a resource for NYU students which they can use to resolve common problems they face in their academic life. With this app users can ask their queries, share their experiences, provide their opinions, answer other student’s queries and much more. This application can be a great guide for students who are joining NYU for the first time, or a fresh breath for already existing students. Given this app only allows people from NYU, it provides a sense of community, security and unity as well. It congregates all these features at one place and creates a data resource for students to refer to.
+* Bubble is a resource for UoG students which they can use to resolve common problems they face in their academic life. With this app users can ask their queries, share their experiences, provide their opinions, answer other student’s queries and much more. This application can be a great guide for students who are joining UoG for the first time, or a fresh breath for already existing students. Given this app only allows people from UoG, it provides a sense of community, security and unity as well. It congregates all these features at one place and creates a data resource for students to refer to.
 
 \
 **Motivation:**
@@ -50,9 +40,9 @@
 **Product Features:**
 *******************
 * Provide Authentication to users
-* Question-Answer(StackOverflow) style interface to NYU affiliates where they can get their queries answered.
+* Question-Answer(StackOverflow) style interface to UoG affiliates where they can get their queries answered.
 * Short Blogging feature(Medium) share experience, information, achievements, event information etc.
-* Reviews feature(Rate my professor) that shows aggregated summary of reviews for courses offered by various NYU institutions along with their syllabus.
+* Reviews feature(Rate my professor) that shows aggregated summary of reviews for courses offered by various UoG institutions along with their syllabus.
 * The platform will also suggest similar posts to the one which the user is viewing using ML.
 * The platform will also make checks for explicit content using ML.
 * The platform will provide sentiment of the reviews using ML. 
