@@ -46,12 +46,3 @@
 * The platform will also suggest similar posts to the one which the user is viewing using ML.
 * The platform will also make checks for explicit content using ML.
 * The platform will provide sentiment of the reviews using ML. 
-
-
-\
-**Team Members:**
-******
-* Aniket Saliya 
-* Aniket Bote [Github](https://github.com/aniketbote)
-* Archil Chovatiya [Github](https://github.com/ArchilChovatiya)
-* Mayank Bhandari [Github](https://github.com/mayankrb)
