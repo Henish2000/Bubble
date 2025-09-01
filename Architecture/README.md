@@ -1,6 +1,6 @@
 # Architecture
 
-![Architecture](https://github.com/as15858/Bubble/blob/main/Architecture/Bubble_Architecture.png)
+![Architecture](https://github.com/Henish2000/Bubble/blob/main/Architecture/Bubble_Architecture.png)
 
 * Cognito is used to add user sign-up, sign-in, and access control to the website.
 * Also, it manages client sessions and validates the JWT of client requests at API Gateway.
